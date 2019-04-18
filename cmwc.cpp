@@ -134,4 +134,3 @@ int main(){
 	    printf("%u %u\n",(num),(num%10));
     }
 }
->>>>>>> 1b2021d37fa937a17c5ccd27279f55150061db5e
