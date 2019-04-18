@@ -9,7 +9,7 @@
 using namespace std;
 
 int main(){
-    long long int elemento;
+    long long int elemento, ignore;
     double chi_quadrado = 0.0;
     vector<long long int> freq_Observada;
 

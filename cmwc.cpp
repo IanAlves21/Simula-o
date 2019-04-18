@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // C99 Complementary Multiply With Carry generator
 // C99 Complementar Multiplicar com o gerador Carry
 #include <bits/stdc++.h>
@@ -66,7 +65,7 @@ int main(){
 	    printf("%u\n",num%10);
     }
 }
-=======
+
 // C99 Complementary Multiply With Carry generator
 // C99 Complementar Multiplicar com o gerador Carry
 #include <bits/stdc++.h>
